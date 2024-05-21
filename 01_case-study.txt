@@ -19,4 +19,4 @@ expected to be advanced in terms of development. The people that will work on it
 should have good teamwork and should work professionally and ethically in order to 
 achieve their goal for their project. and if it comes to time that someone is struggling, 
 as a team they should try to help and assist each other so that their project parts can
-run smoothly and properly and comply before the deadline.
+run smoothly and properly and they can comply before the deadline.
