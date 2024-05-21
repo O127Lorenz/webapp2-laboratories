@@ -9,7 +9,9 @@ have 6 months to accomplished  this project which includes debugging and testin
 they should use tools that can help them in tracking their progress, one of the
 tools that I can recommend is Bar Chart, this can be use to assign deadlines in 
 many parts of project, and by the use of this tool, you can assess if the employee 
-can comply and passed their task before deadlines. 
+can comply and passed their task before deadlines. And if the employee, doesn't 
+comply in the right time, they must take responsibility for it, that's why the leader
+needs to be tight when it comes to their workplace in order for them to develop dicipline.
 
 Proper management and a healthy workplace are big factors in a group project. 
 since this is a "cutting-edge software solution," this means that this project is 
